@@ -9,6 +9,5 @@ int main()
 	printf("%d\n",a);
 	printf("%s\n",b);
 	scanf("%s",b);
-	printf("%s\n",b);
 	return 0;
 }
